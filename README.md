@@ -65,7 +65,7 @@
     </td>
 
  <td align='center' width="200">
-        <img src="https://www.freecodecamp.org/news/content/images/2021/08/vscode.png" width="80">
+        <img src="https://code.visualstudio.com/assets/apple-touch-icon.png" width="80">
     </td>
 
 </tr>
