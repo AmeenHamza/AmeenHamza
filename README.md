@@ -65,7 +65,7 @@
     </td>
 
  <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+        <img src="https://www.freecodecamp.org/news/content/images/2021/08/vscode.png" width="80">
     </td>
 
 </tr>
