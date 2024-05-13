@@ -64,7 +64,7 @@
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
     </td>
 
- <td align='center'>
+ <td align='center' width="200">
         <img src="https://www.freecodecamp.org/news/content/images/2021/08/vscode.png" width="80">
     </td>
 
